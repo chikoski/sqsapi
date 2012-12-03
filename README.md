@@ -1,10 +1,14 @@
-Sinatra w/ JRuby @ Heroku
+SQS Web API
 -------------------------
 
-Sample app featuring:
+A web api which translates SQS files into PDF file.
+
+It works with
 
   * JRuby
   * Sinatra
   * Trinidad
-  * Ready for running on Heroku platform
+  * MySQL
+  
+Working prototype is available at http://sqsapi.herokuapp.com .
 
