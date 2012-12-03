@@ -1,4 +1,10 @@
-sqsapi
-======
+Sinatra w/ JRuby @ Heroku
+-------------------------
 
-A Web API which generates a PDF file from a  SQS file
+Sample app featuring:
+
+  * JRuby
+  * Sinatra
+  * Trinidad
+  * Ready for running on Heroku platform
+
