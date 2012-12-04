@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg:svg 
+ xmlns="http://www.w3.org/2000/svg" 
+ xmlns:svg="http://www.w3.org/2000/svg" 
+ xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" 
+ xmlns:xforms="http://www.w3.org/2002/xforms" 
+ xmlns:master="http://sqs-xml.sourceforge.jp/2007/master" 
+svg:width="595" svg:height="842">
+<svg:pageSet>
+ <svg:masterPage>
+  <svg:metadata>
+      <master:master master:version="1.3" master:numPages="2" />
+      <master:corner master:x1="99" master:y1="29" master:x2="497" master:y2="29" master:x3="94" master:y3="810" master:x4="492" master:y4="810" />
+      <master:upsideDownChecker>
+       <master:checkerArea master:side="header">
+         <svg:rect x="89" y="19" width="20" height="20"/>
+     </master:checkerArea>
+     <master:checkerArea master:side="footer">
+         <svg:rect x="84" y="800" width="20" height="20"/>
+     </master:checkerArea>
+     </master:upsideDownChecker>
+      <master:evenOddChecker>
+       <master:checkerArea master:side="left">
+         <svg:rect x="30" y="796" width="24" height="12"/>
+     </master:checkerArea>
+     <master:checkerArea master:side="right">
+         <svg:rect x="531" y="796" width="24" height="12"/>
+     </master:checkerArea>
+     </master:evenOddChecker>
+  </svg:metadata>
+ </svg:masterPage>
+  <svg:page>
+<svg:g id="mark1/0">
+<svg:rect x="153.04100036621094" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>1年</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark1/1">
+<svg:rect x="221.0800018310547" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>2年</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark1/2">
+<svg:rect x="289.1189880371094" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>3年</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark1/3">
+<svg:rect x="357.1579895019531" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>4年</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark1/4">
+<svg:rect x="425.1969909667969" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>5年</xforms:label>
+<xforms:value>5</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark1/5">
+<svg:rect x="493.2359924316406" y="157.06201171875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="1" sqs:itemIndex="5" sqs:pxform-type="select1">
+<xforms:label>(1)</xforms:label>
+<xforms:hint>学年</xforms:hint>
+<xforms:item>
+<xforms:label>6年</xforms:label>
+<xforms:value>6</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/1/0">
+<svg:rect x="246.625" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/1/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/1/1">
+<svg:rect x="280.5" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/1/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/1/2">
+<svg:rect x="314.5" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/1/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/1/3">
+<svg:rect x="348.375" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/1/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/2/0">
+<svg:rect x="382.625" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/1/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/2/1">
+<svg:rect x="416.5" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/1/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/2/2">
+<svg:rect x="450.5" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/1/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/2/3">
+<svg:rect x="484.5" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/1/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/1/2/4">
+<svg:rect x="518.375" y="254.947998046875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/1/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/1/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/1/0">
+<svg:rect x="246.625" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/2/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/1/1">
+<svg:rect x="280.5" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/2/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/1/2">
+<svg:rect x="314.5" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/2/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/1/3">
+<svg:rect x="348.375" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/2/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/2/0">
+<svg:rect x="382.625" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/2/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/2/1">
+<svg:rect x="416.5" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/2/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/2/2">
+<svg:rect x="450.5" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/2/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/2/3">
+<svg:rect x="484.5" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/2/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/2/2/4">
+<svg:rect x="518.375" y="287.2080078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/2/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/2/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/1/0">
+<svg:rect x="246.625" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/3/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/1/1">
+<svg:rect x="280.5" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/3/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/1/2">
+<svg:rect x="314.5" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/3/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/1/3">
+<svg:rect x="348.375" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/3/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/2/0">
+<svg:rect x="382.625" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/3/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/2/1">
+<svg:rect x="416.5" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/3/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/2/2">
+<svg:rect x="450.5" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/3/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/2/3">
+<svg:rect x="484.5" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/3/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/3/2/4">
+<svg:rect x="518.375" y="319.468017578125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/3/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/3/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>丁寧に字を書くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/1/0">
+<svg:rect x="246.625" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/4/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/1/1">
+<svg:rect x="280.5" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/4/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/1/2">
+<svg:rect x="314.5" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/4/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/1/3">
+<svg:rect x="348.375" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/4/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/2/0">
+<svg:rect x="382.625" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/4/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/2/1">
+<svg:rect x="416.5" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/4/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/2/2">
+<svg:rect x="450.5" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/4/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/2/3">
+<svg:rect x="484.5" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/4/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/4/2/4">
+<svg:rect x="518.375" y="341.75201416015625" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/4/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/4/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/1/0">
+<svg:rect x="246.625" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/5/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/1/1">
+<svg:rect x="280.5" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/5/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/1/2">
+<svg:rect x="314.5" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/5/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/1/3">
+<svg:rect x="348.375" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/5/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/2/0">
+<svg:rect x="382.625" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/5/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/2/1">
+<svg:rect x="416.5" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/5/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/2/2">
+<svg:rect x="450.5" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/5/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/2/3">
+<svg:rect x="484.5" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/5/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/5/2/4">
+<svg:rect x="518.375" y="364.0360107421875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/5/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/5/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/1/0">
+<svg:rect x="246.625" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/6/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/1/1">
+<svg:rect x="280.5" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/6/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/1/2">
+<svg:rect x="314.5" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/6/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/1/3">
+<svg:rect x="348.375" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/6/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/2/0">
+<svg:rect x="382.625" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/6/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/2/1">
+<svg:rect x="416.5" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/6/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/2/2">
+<svg:rect x="450.5" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/6/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/2/3">
+<svg:rect x="484.5" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/6/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/6/2/4">
+<svg:rect x="518.375" y="396.2960205078125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/6/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/6/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/1/0">
+<svg:rect x="246.625" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/7/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/1/1">
+<svg:rect x="280.5" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/7/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/1/2">
+<svg:rect x="314.5" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/7/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/1/3">
+<svg:rect x="348.375" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/7/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/2/0">
+<svg:rect x="382.625" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/7/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/2/1">
+<svg:rect x="416.5" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/7/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/2/2">
+<svg:rect x="450.5" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/7/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/2/3">
+<svg:rect x="484.5" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/7/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/7/2/4">
+<svg:rect x="518.375" y="428.5560302734375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/7/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/7/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/1/0">
+<svg:rect x="246.625" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/8/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/1/1">
+<svg:rect x="280.5" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/8/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/1/2">
+<svg:rect x="314.5" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/8/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/1/3">
+<svg:rect x="348.375" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/8/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/2/0">
+<svg:rect x="382.625" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/8/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/2/1">
+<svg:rect x="416.5" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/8/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/2/2">
+<svg:rect x="450.5" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/8/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/2/3">
+<svg:rect x="484.5" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/8/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/8/2/4">
+<svg:rect x="518.375" y="450.84002685546875" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/8/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/8/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/1/0">
+<svg:rect x="246.625" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/9/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/1/1">
+<svg:rect x="280.5" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/9/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/1/2">
+<svg:rect x="314.5" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/9/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/1/3">
+<svg:rect x="348.375" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/9/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/2/0">
+<svg:rect x="382.625" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/9/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/2/1">
+<svg:rect x="416.5" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/9/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/2/2">
+<svg:rect x="450.5" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/9/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/2/3">
+<svg:rect x="484.5" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/9/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/9/2/4">
+<svg:rect x="518.375" y="473.1240234375" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/9/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/9/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/1/0">
+<svg:rect x="246.625" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/10/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/1/1">
+<svg:rect x="280.5" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/10/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/1/2">
+<svg:rect x="314.5" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/10/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/1/3">
+<svg:rect x="348.375" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/10/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/2/0">
+<svg:rect x="382.625" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/10/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/2/1">
+<svg:rect x="416.5" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/10/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/2/2">
+<svg:rect x="450.5" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/10/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/2/3">
+<svg:rect x="484.5" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/10/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/10/2/4">
+<svg:rect x="518.375" y="505.384033203125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/10/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/10/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/1/0">
+<svg:rect x="246.625" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/11/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/1/1">
+<svg:rect x="280.5" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/11/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/1/2">
+<svg:rect x="314.5" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/11/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/1/3">
+<svg:rect x="348.375" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/11/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/2/0">
+<svg:rect x="382.625" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/11/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/2/1">
+<svg:rect x="416.5" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/11/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/2/2">
+<svg:rect x="450.5" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/11/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/2/3">
+<svg:rect x="484.5" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/11/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/11/2/4">
+<svg:rect x="518.375" y="527.6680297851562" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/11/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/11/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/1/0">
+<svg:rect x="246.625" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/12/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/1/1">
+<svg:rect x="280.5" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/12/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/1/2">
+<svg:rect x="314.5" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/12/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/1/3">
+<svg:rect x="348.375" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/12/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/2/0">
+<svg:rect x="382.625" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/12/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/2/1">
+<svg:rect x="416.5" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/12/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/2/2">
+<svg:rect x="450.5" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/12/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/2/3">
+<svg:rect x="484.5" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/12/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/12/2/4">
+<svg:rect x="518.375" y="559.9280090332031" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/12/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/12/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>きまりを守ること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/1/0">
+<svg:rect x="246.625" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/13/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/1/1">
+<svg:rect x="280.5" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/13/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/1/2">
+<svg:rect x="314.5" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/13/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/1/3">
+<svg:rect x="348.375" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/13/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/2/0">
+<svg:rect x="382.625" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/13/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/2/1">
+<svg:rect x="416.5" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/13/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/2/2">
+<svg:rect x="450.5" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/13/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/2/3">
+<svg:rect x="484.5" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/13/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/13/2/4">
+<svg:rect x="518.375" y="582.2120361328125" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/13/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/13/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/1/0">
+<svg:rect x="246.625" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/14/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/1/1">
+<svg:rect x="280.5" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/14/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/1/2">
+<svg:rect x="314.5" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/14/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/1/3">
+<svg:rect x="348.375" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/14/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/2/0">
+<svg:rect x="382.625" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/14/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/2/1">
+<svg:rect x="416.5" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/14/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/2/2">
+<svg:rect x="450.5" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/14/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/2/3">
+<svg:rect x="484.5" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/14/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/14/2/4">
+<svg:rect x="518.375" y="614.4720306396484" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/14/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/14/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/1/0">
+<svg:rect x="246.625" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/15/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/1/1">
+<svg:rect x="280.5" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/15/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/1/2">
+<svg:rect x="314.5" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/15/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/1/3">
+<svg:rect x="348.375" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/15/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/2/0">
+<svg:rect x="382.625" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/15/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/2/1">
+<svg:rect x="416.5" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/15/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/2/2">
+<svg:rect x="450.5" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/15/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/2/3">
+<svg:rect x="484.5" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/15/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/15/2/4">
+<svg:rect x="518.375" y="636.7560272216797" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/15/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/15/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/1/0">
+<svg:rect x="246.625" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/16/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/1/1">
+<svg:rect x="280.5" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/16/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/1/2">
+<svg:rect x="314.5" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/16/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/1/3">
+<svg:rect x="348.375" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/16/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/2/0">
+<svg:rect x="382.625" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/16/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/2/1">
+<svg:rect x="416.5" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/16/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/2/2">
+<svg:rect x="450.5" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/16/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/2/3">
+<svg:rect x="484.5" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/16/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/16/2/4">
+<svg:rect x="518.375" y="659.0400238037109" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/16/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/16/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/1/0">
+<svg:rect x="246.625" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/17/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/1/1">
+<svg:rect x="280.5" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/17/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/1/2">
+<svg:rect x="314.5" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/17/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/1/3">
+<svg:rect x="348.375" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/17/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/2/0">
+<svg:rect x="382.625" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/17/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/2/1">
+<svg:rect x="416.5" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/17/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/2/2">
+<svg:rect x="450.5" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/17/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/2/3">
+<svg:rect x="484.5" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/17/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/17/2/4">
+<svg:rect x="518.375" y="691.3000183105469" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/17/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/17/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/1/0">
+<svg:rect x="246.625" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/1" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/18/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要である</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/1/1">
+<svg:rect x="280.5" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/1" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/18/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>やや重要である</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/1/2">
+<svg:rect x="314.5" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/1" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/18/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり重要ではない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/1/3">
+<svg:rect x="348.375" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/1" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/18/1</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>重要度</xforms:hint>
+<xforms:item>
+<xforms:label>重要ではない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/2/0">
+<svg:rect x="382.625" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/2" sqs:itemIndex="0" sqs:pxform-type="select1">
+<xforms:label>(2)/18/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>よく出来ている</xforms:label>
+<xforms:value>1</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/2/1">
+<svg:rect x="416.5" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/2" sqs:itemIndex="1" sqs:pxform-type="select1">
+<xforms:label>(2)/18/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>大体出来ている</xforms:label>
+<xforms:value>2</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/2/2">
+<svg:rect x="450.5" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/2" sqs:itemIndex="2" sqs:pxform-type="select1">
+<xforms:label>(2)/18/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>あまり出来ていない</xforms:label>
+<xforms:value>3</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/2/3">
+<svg:rect x="484.5" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/2" sqs:itemIndex="3" sqs:pxform-type="select1">
+<xforms:label>(2)/18/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>出来ていない</xforms:label>
+<xforms:value>4</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+<svg:g id="mark2/18/2/4">
+<svg:rect x="518.375" y="723.5600204467773" width="5.0" height="16.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:select xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:qid="2/18/2" sqs:itemIndex="4" sqs:pxform-type="select1">
+<xforms:label>(2)/18/2</xforms:label>
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+<xforms:hint>実現度</xforms:hint>
+<xforms:item>
+<xforms:label>わからない</xforms:label>
+<xforms:value>0</xforms:value>
+</xforms:item>
+</xforms:select>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+  </svg:page>
+  <svg:page>
+<svg:g id="textarea3">
+<svg:rect x="44.0" y="88.84100341796875" width="500.0" height="100.0">
+<svg:metadata xmlns:svg="http://www.w3.org/2000/svg">
+<xforms:textarea xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs" sqs:height="100" sqs:qid="3" sqs:width="500" sqs:class="SESS.LastFreeAnswer" sqs:sizeTag="normal">
+<xforms:label>(3)</xforms:label>
+    <xforms:hint>【自由記述設問】ご意見・ご感想がございましたら、ご記入ください。</xforms:hint>
+    </xforms:textarea>
+</svg:metadata>
+
+</svg:rect>
+</svg:g>
+  </svg:page>
+</svg:pageSet>
+</svg:svg>
