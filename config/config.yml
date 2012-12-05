@@ -1,0 +1,4 @@
+:fixture_dir: "fixtures"
+:pdf:
+  :mime_type: "application/pdf"
+  :postfix: "pdf"
