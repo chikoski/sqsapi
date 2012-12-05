@@ -1,3 +1,3 @@
-require 'app/hello'
+require 'app/sqsapi'
 
 run Sinatra::Application
