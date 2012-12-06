@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'bundler'
+require 'json'
 
 Bundler.require
 require 'sinatra'
@@ -14,6 +15,13 @@ get '/' do
 end
 
 post '/translate' do
-  SQS::API::Translator.start(params)
+  ret = SQS::API::Translator.start(params)
+  if ret[:code] == 200
+    content_type ret[:type]
+    ret[:file]
+  else
+    ret.to_json
+  end
 end
+
 
