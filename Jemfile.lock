@@ -21,6 +21,7 @@ GEM
     i18n (0.6.1)
     jdbc-sqlite3 (3.7.2)
     jruby-rack (1.1.12)
+    json (1.7.5-java)
     multi_json (1.4.0)
     rack (1.4.1)
     rack-protection (1.2.0)
@@ -42,5 +43,6 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   activerecord-jdbcsqlite3-adapter
+  json
   sinatra
   trinidad
