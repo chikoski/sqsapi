@@ -21,7 +21,11 @@ class SQS::API::Config
     @yml[:config_file] = yml_file
     @yml[:config_dir] = File.dirname(yml_file)
     @yml[:root_dir] = File.expand_path("..", @yml[:config_dir])
-    @yml[:fixture_dir] = File.expand_path(@yml[:fixture_dir], @yml[:root_dir])
+
+    @yml[:fixture_dir] =
+      File.expand_path(@yml[:fixture_dir] || @yml[:dir][:fixtures] || "fixtures",
+                       @yml[:root_dir])
+    @yml[:m2] = @yml[:dir][:m2]
   end
 
   def method_missing(name, *args)

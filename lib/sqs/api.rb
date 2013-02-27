@@ -1,6 +1,9 @@
 require 'sqs'
+require 'find'
 
 class SQS::API
+  include Find
+  
   @@logger = nil
   
   class << self
@@ -8,6 +11,7 @@ class SQS::API
     def setup(config_file)
       init_logger
       load_config(config_file)
+      load_jar_files
     end
 
     def init_logger
@@ -42,6 +46,16 @@ class SQS::API
     protected
     def load_config(file)
       SQS::API::Config.load(file)
+    end
+
+    def load_jar_files
+      require 'java'
+
+      repository = config.m2
+      repository = ENV["HOME/.m2"] unless File.directory?(repository)
+      find(repository){|file|
+        require file if file =~ /\.jar$/
+      }
     end
   end
 end
