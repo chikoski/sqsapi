@@ -16,9 +16,9 @@
 
   <repositories>
     <repository>
-      <id>localhost</id>
-      <name>Local Maven2 Repository</name>
-      <url>file://./repository</url>
+      <id>development</id>
+      <name>development</name>
+      <url>http://sqs.chikoski.info/repository</url>
     </repository>
     
     <repository>
