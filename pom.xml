@@ -3,10 +3,10 @@
 	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>br.com.tomasmuller</groupId>
-  <artifactId>jruby-heroku</artifactId>
-  <version>1.0</version>
-  <name>sinatra-jruby-heroku</name>
+  <groupId>smr.sfc.keio.ac.jp</groupId>
+  <artifactId>sqs-api</artifactId>
+  <version>0.1</version>
+  <name>SQS-WebAPI</name>
   <packaging>jar</packaging>
   
   <properties>
@@ -63,6 +63,16 @@
 	    </goals>
 	    <configuration>
 	      <args>-S gem install bundler --no-ri --no-rdoc --install-dir vendor/bundle</args>
+	    </configuration>
+	  </execution>
+	  <execution>
+	    <id>install-jruby-openssl</id>
+	    <phase>process-resources</phase>
+	    <goals>
+	      <goal>jruby</goal>
+	    </goals>
+	    <configuration>
+	      <args>-S gem install jruby-openssl --no-ri --no-rdoc --install-dir vendor/bundle</args>
 	    </configuration>
 	  </execution>
 	  <execution>
