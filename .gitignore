@@ -21,3 +21,5 @@ Gemfile
 Gemfile.lock
 
 *~
+
+vendor/*
