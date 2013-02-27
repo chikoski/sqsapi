@@ -2,14 +2,19 @@
 require 'uri'
 require 'open-uri'
 require 'singleton'
+require 'sqs/api'
+require 'sqs/api/exporter'
 
 class SQS::API::Translator
   include Singleton
 
   def start(params)
     begin
-      sqs = sqs_file_handle(params)
-      pdf = translate(sqs)
+      sqs = ""
+      open(params){|fd|
+        sqs = fd.read
+      }
+      pdf = exporter.export_pdf(sqs)
       return {filename: filename, file: pdf, code: 200, type: SQS::API.config.pdf[:mime_type]}
     rescue => e
       SQS::API.logger.debug(e.to_s)
@@ -24,20 +29,27 @@ class SQS::API::Translator
       reason: reason
     }
   end
-  
-  # XXX
-  # 未実装。とりあえずPDF返す
-  def translate(sqs)
-    ret = nil
-    conf = SQS::API.config
-    open(File.expand_path("pdf/2965.pdf", conf.fixture_dir), "rb"){|fd|
-      ret = fd.read
-    }
-    return ret
-  end
 
+  def exporter
+    return @exporter if @exporter
+    @exporter = SQS::API::Exporter.new
+  end
+  
   def filename
     return "#{Time.now.to_i}.pdf"
+  end
+
+  def open(params)
+    handle = file_handle(params)
+    yield(handle) if block_given?
+    handle.close(handle)
+  end
+
+  def file_handle(params)
+    return params[:file][:tempfile] if params[:file] && params[:file][:tempfile]
+    return params["file"][:tempfile] if params["file"] && params["file"][:tempfile] 
+    return open(params[:url]) if is_valid_url?(params)
+    return nil
   end
 
   def is_valid_url?(params)
@@ -49,20 +61,6 @@ class SQS::API::Translator
     rescue
       return false
     end
-  end
-  
-  def is_valid_enctype?(enctype)
-    return enctype == "multipart/form-data"
-  end
-  
-  def to_read_from_file?(params)
-    return params[:file] && is_valid_enctype?(params[:enctype])
-  end
-  
-  def sqs_file_handle(params)
-    return params[:file][:tmpfile] if to_read_from_file?(params)
-    return open(params[:url]) if is_valid_url?(params)
-    return nil
   end
 
   class << self

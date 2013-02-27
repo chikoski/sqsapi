@@ -1,17 +1,19 @@
+$LOAD_PATH << File.expand_path("../lib", File.dirname(__FILE__))
+
 require 'rubygems'
 require 'bundler'
-require 'json'
-
 Bundler.require
+
+require 'json'
 require 'sinatra'
 
-$LOAD_PATH << File.expand_path("../lib", File.dirname(__FILE__))
 require 'sqs/api'
+require 'sqs/api/translator'
 
 SQS::API.setup(File.expand_path("../config/config.yml", File.dirname(__FILE__)))
 
 get '/' do
-  "Hello World"
+  redirect '/translate.html'
 end
 
 post '/translate' do

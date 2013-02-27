@@ -1,37 +1,8 @@
 require 'yaml'
 require 'logger'
 
-class SQS::API
-  @@logger = nil
-
-  class << self
-
-    def setup(config_file)
-      init_logger
-      load_config(config_file)
-    end
-
-    def init_logger
-      @@logger = Logger.new(STDERR)
-      @@logger.level= Logger::DEBUG
-    end
-
-    def config
-      return SQS::API::Config.instance
-    end
-    
-    def logger
-      return @@logger
-    end
-
-    protected
-    def load_config(file)
-      SQS::API::Config.load(file)
-    end
-
-  end
-    
-end
+require 'sqs'
+require 'sqs/api'
 
 class SQS::API::Config
   # XXX default value...
