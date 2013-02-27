@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
-gem 'jruby-openssl'
 
+gem 'jruby-openssl'
 gem 'sinatra'
 gem 'trinidad'
 gem 'activerecord'
