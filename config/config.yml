@@ -1,5 +1,6 @@
 dir:
   fixtures: "fixtures"
+  m2: "maven"
 pdf:
   mime_type: "application/pdf"
   postfix: "pdf"
