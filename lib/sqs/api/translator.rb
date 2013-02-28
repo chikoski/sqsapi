@@ -18,7 +18,7 @@ class SQS::API::Translator
         return {filename: File.basename(filename), file: pdf, code: 200, type: mimetype}
       }
     rescue => e
-      SQS::API.logger.debug(e.to_s)
+      SQS::API.logger.warn(e.to_s)
       SQS::API.logger.debug(e.backtrace.join("\n"))
       return translate_error(:no_sqs_file) 
     end

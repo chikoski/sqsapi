@@ -29,7 +29,8 @@ class SQS::API::Config
       File.expand_path(@yml["fixture_dir"], @yml[:root_dir])
     @yml["public_dir"] = File.expand_path("public", @yml[:root_dir])
 
-    @yml[:m2] = dir[:m2] || dir["m2"] ||  File.expand_path(".m2", ENV["HOME"])
+    @yml["m2"] = File.expand_path(dir[:m2] || dir["m2"] ||  File.expand_path(".m2", ENV["HOME"]),
+                                  @yml[:root_dir])
   end
 
   def method_missing(name, *args)
