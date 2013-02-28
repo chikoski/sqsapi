@@ -19,8 +19,7 @@ end
 post '/translate' do
   ret = SQS::API::Translator.start(params)
   if ret[:code] == 200
-    content_type ret[:type]
-    ret[:file]
+    send_file ret[:file], type: params[:type], filename: ret[:filename]
   else
     ret.to_json
   end

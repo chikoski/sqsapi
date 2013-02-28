@@ -51,7 +51,7 @@ class SQS::API
       require 'java'
 
       repository = config.m2
-      repository = File.expand_path(".m2", ENV["HOME"]) unless File.directory?(repository)
+      repository = File.expand_path(".m2", ENV["HOME"]) unless repository && File.directory?(repository)
       Find.find(repository){|file|
         debug(file)
         require file if file =~ /\.jar$/

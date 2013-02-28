@@ -10,22 +10,23 @@ class SQS::API::Exporter
     @page_setting = PageSettingImpl.new(595, 842)
   end
 
-  def export_pdf(file)
+  def export_pdf(file, pdffile)
     file = file.path if file.is_a?(File)
     sqs = java.io.File.new(file)
-    pdf = translate(sqs)
-    return pdf
+    pdf = translate(sqs, pdffile)
+    return pdf.getAbsolutePath()
   end
 
   protected
-  def translate(sqs)
+  def translate(sqs, pdffile)
     sqs_fd = java.io.BufferedInputStream.new(java.io.FileInputStream.new(sqs))
 
-    pdf = org.jruby.util.JRubyFile.createTempFile("sqs", "pdf")
+    pdf = java.io.File.new(pdffile)
+    pdf.createNewFile()
     pdf_fd = java.io.BufferedOutputStream.new(java.io.FileOutputStream.new(pdf))
 
     translator_for(pdf.getName()) do |t|
-      t.execute(sqs_fd, sqs.toURI(),  pdf_fd, @uri_resolver)
+      t.execute(sqs_fd, sqs.toURI().toString(),  pdf_fd, @uri_resolver)
     end
 
     return pdf

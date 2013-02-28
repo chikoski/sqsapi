@@ -13,8 +13,9 @@ class SQS::API::Translator
       sqs = ""
       open_sqs(params){|fd|
         sqs = fd.path
-        pdf = exporter.export_pdf(sqs)
-        return {filename: filename, file: pdf, code: 200, type: SQS::API.config.pdf[:mime_type]}
+        pdf = exporter.export_pdf(sqs, File.expand_path(filename, SQS::API.config.public_dir))
+        mimetype = SQS::API.config.pdf["mime_type"] || "applicatoin/pdf"
+        return {filename: File.basename(filename), file: pdf, code: 200, type: mimetype}
       }
     rescue => e
       SQS::API.logger.debug(e.to_s)
