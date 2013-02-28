@@ -1,16 +1,120 @@
 <!doctype html>
 <html lang="ja">
   <head>
-    <title>SQS API:translate test</title>
+    <title>SQS Web API</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <style type="text/css">
+      .jumbotron {
+        margin: 80px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 100px;
+        line-height: 1;
+      }
+      .translate{
+        text-align: center;
+        margin-bottom: 80px;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
-      <h2>Post a SQS file </h2>
-      <form method="post" action="/translate" enctype="multipart/form-data">
-	<input type="file" name="file">
-	<input type="submit" value="send it">
-      </form>
+      <div class="masthead">
+        <h3 class="muted">SQS Web API</h3>
+      </div>
+
+      <div class="jumbotron">
+	<h1>SQS -> PDF</h1>
+      </div>
+
+      <div class="translate">
+	<h2>Post a SQS file </h2>
+	<form method="post" action="/translate" enctype="multipart/form-data">
+	  <input type="file" name="file">
+	  <input type="submit" value="Translate into PDF" class="btn btn-large btn-success">
+	</form>
+      </div>
+
+      <hr>
+      <h2>Ssample files</h2>
+      <div class="row">
+	<div class="span6">
+	  <h3>Sample #00</h3>
+	  <div class="row">
+	    <div class="span2">
+	      <a href="#sample00" data-toggle="modal">
+		<img src="/img/sample00_thumbnail.png" alt="sample #00">
+	      </a>
+	    </div>
+	    <div class="span4">
+	      <p>
+		Click to enlarge.
+	      </p>
+	      <p>
+		<a class="btn" href="/sqs/sample00.sqs">Download</a>
+	      </p>
+	    </div>
+	  </div>
+	  <!-- Modal -->
+	  <div id="sample00" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	    <div class="modal-header">
+	      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+	      <h3>Sample #00</h3>
+	    </div>
+	    <div class="modal-body">
+	      <img src="/img/sample00.png" alt="sample #00">
+	    </div>
+	    <div class="modal-footer">
+	      <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	    </div>
+	  </div>
+	  <!-- Modal -->
+	</div>
+	
+	<div class="span6">
+	  <div class="row">
+	    <h3>Sample #01</h3>
+	    <div class="span2">
+	      <a href="#sample01" data-toggle="modal">
+		<img src="/img/sample01_thumbnail.png" alt="sample #01">
+	      </a>
+	    </div>
+	    <div class="span4">
+	      <p>
+		Click to enlarge.
+	      </p>
+	      <p>
+		<a class="btn" href="/sqs/sample01.sqs">Download</a>
+	      </p>
+	    </div>
+	  </div>
+	  <!-- Modal -->
+	  <div id="sample01" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	    <div class="modal-header">
+	      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+	      <h3>Sample #01</h3>
+	    </div>
+	    <div class="modal-body">
+	      <img src="/img/sample01.png" alt="sample #01">
+	    </div>
+	    <div class="modal-footer">
+	      <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	    </div>
+	  </div>
+	</div>
+	<!-- Modal -->
+      </div>
+      <hr>
+      <div class="footer">
+	<p>
+	  SFC CMR Project
+	</p>
+      </div>
     </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
   </body>
 </html>

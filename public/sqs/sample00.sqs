@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/2002/06/xhtml2"
+ xmlns:sqs="http://sqs.cmr.sfc.keio.ac.jp/2004/sqs"
+ xmlns:xforms="http://www.w3.org/2002/xforms"
+ xmlns:xhtml2="http://www.w3.org/2002/06/xhtml2">
+<head lang="ja">
+
+
+ <title>保護者アンケート　第1回  H24.7</title>
+ <meta content="保護者アンケート　第1回  H24.7" name="DC.Title"/>
+ <meta content="2012年07月　保護者" name="DC.Title.Short"/>
+ <meta content="京都市" name="DC.Creator.city"/>
+ <meta content="深草小" name="DC.Creator.school"/>
+ <meta content="小学校" name="DC.Creator.type"/>
+ <meta content="24" name="Questionnaire.Date.year"/>
+ <meta content="7" name="Questionnaire.Date.month"/>
+ <meta content="保護者" name="Questionnaire.Target"/>
+ <meta content="" name="Questionnaire.Target.detail"/>
+ 
+ <meta content="B" name="SESS.Form.type"/>
+ <meta content="実現度" name="SESS.Form.subtype"/>
+ <meta content="4" name="SESS.Form.numOptions"/>
+ <meta content="false" name="SESS.Form.hasUncertainOption"/>
+  
+ <meta content="false" name="SESS.Form.matrix-forms.groupModeEnabled"/>
+
+ 
+ <meta content="" name="DC.Subject"/>
+ <meta content="2012-07-05 18:33:30" name="DCTERMS.Created" scheme="DCTERMS.W3CDTF"/>
+ <meta content="http://www.cmr.sfc.keio.ac.jp/sess/Wizard/20081130" name="SQS.Form.class"/>
+ <!--<meta content="yyyy-mm-dd/yyyy-mm-dd" name="DCTERMS.Valid" scheme="DCTERMS.W3CDTF"/>-->
+</head> 
+<body>
+
+<h>保護者アンケート　第1回  H24.7</h>
+
+<p>　</p>
+
+<p>　</p>
+
+
+<p>以下のそれぞれの質問で、あてはまるもの一つにマークをしてください。
+</p>
+
+<!--
+<p>　</p>
+<sqs:warning>
+<p>選択式の回答は、あなたが選んだマーク<sqs:mark/>を塗りつぶして答えてください。</p>
+<sqs:marking-example/>
+<p>
+この用紙は機械で処理します。回答らん以外に書き込みをしたり、用紙を汚したり、折り目を付けたりしないように注意してください。
+</p>
+<p>記述式の回答は、回答欄からはみ出さないように記入してください。</p>
+</sqs:warning>
+-->
+
+<p>　</p>
+
+<!-- //////////////////////////////////// -->                         
+
+  <xforms:select1 sqs:style="form-compact"
+sqs:class="Questionnaire.Target.School.grade" sqs:cols="6"
+sqs:form-width-ratio="0.85">
+    <xforms:hint>学年</xforms:hint> 	
+        <xforms:item>
+          <xforms:label>1年</xforms:label>
+          <xforms:value>1</xforms:value>
+        </xforms:item>	
+        <xforms:item>
+          <xforms:label>2年</xforms:label>
+          <xforms:value>2</xforms:value>
+        </xforms:item>	
+        <xforms:item>
+          <xforms:label>3年</xforms:label>
+          <xforms:value>3</xforms:value>
+        </xforms:item>	
+        <xforms:item>
+          <xforms:label>4年</xforms:label>
+          <xforms:value>4</xforms:value>
+        </xforms:item>	
+        <xforms:item>
+          <xforms:label>5年</xforms:label>
+          <xforms:value>5</xforms:value>
+        </xforms:item>	
+        <xforms:item>
+          <xforms:label>6年</xforms:label>
+          <xforms:value>6</xforms:value>
+        </xforms:item>	
+  </xforms:select1>
+  <p>　</p>
+
+
+
+
+
+
+
+<sqs:matrix-forms sqs:class="SESS.Form.matrix-forms"
+sqs:form-width-ratio="0.65">
+<xforms:hint>以下の各項目について、「(A)どのくらい重要だと思うか（重要度）」と「(B)実現できていると思うか（実現度）」をそれぞれお答えください。</xforms:hint>
+<sqs:row-array>
+    <xforms:group>
+    <xforms:hint>子どもに基礎的な学力が身についていること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>授業が楽しく分かりやすく工夫されていること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>丁寧に字を書くこと</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>勉強中，先生や友達の話を聞くこと</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>（15分×学年）の家庭学習ができていること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもに読書の習慣が身についていること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが楽しく学校に通うこと</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが進んであいさつをすること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが望ましい言葉づかいをすること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが目標をもってがんばること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>学校が人権を大切にした学習・活動を行うこと</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>きまりを守ること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが健康で体力のある体をつくろうとすること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが十分な睡眠時間をとること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが毎日朝食をとること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもが家族の一員として役割をもっていること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>子どもと学校のことや友だちのことなどについて話をすること</xforms:hint>
+    </xforms:group>
+    <xforms:group>
+    <xforms:hint>学年・学級だより，学校便り，ホームページなどで学校の様子を保護者に伝えること</xforms:hint>
+    </xforms:group>
+</sqs:row-array>
+<sqs:column-array>
+<sqs:select1 sqs:cols="4">
+  <xforms:hint>重要度</xforms:hint>
+ <xforms:item>
+   <xforms:label>重要である</xforms:label>
+   <xforms:value>1</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>やや重要である</xforms:label>
+   <xforms:value>2</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>あまり重要ではない</xforms:label>
+   <xforms:value>3</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>重要ではない</xforms:label>
+   <xforms:value>4</xforms:value>
+ </xforms:item>
+</sqs:select1>
+<sqs:select1 sqs:cols="5">
+  <xforms:hint>実現度</xforms:hint>
+ <xforms:item>
+   <xforms:label>よく出来ている</xforms:label>
+   <xforms:value>1</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>大体出来ている</xforms:label>
+   <xforms:value>2</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>あまり出来ていない</xforms:label>
+   <xforms:value>3</xforms:value>
+ </xforms:item>
+ <xforms:item>
+   <xforms:label>出来ていない</xforms:label>
+   <xforms:value>4</xforms:value>
+ </xforms:item>
+    <xforms:item>
+      <xforms:label>わからない</xforms:label>
+      <xforms:value>0</xforms:value>
+    </xforms:item>
+</sqs:select1>
+</sqs:column-array>
+</sqs:matrix-forms>
+<p>　</p>
+
+
+
+<p>　</p>
+
+    <xforms:textarea sqs:height="100" sqs:width="500" sqs:class="SESS.LastFreeAnswer" sqs:sizeTag="normal">
+    <xforms:hint>【自由記述設問】ご意見・ご感想がございましたら、ご記入ください。</xforms:hint>
+    </xforms:textarea>
+
+<p>　　　　　　　　　　　　　　　　　　　　　　　質問は以上です。ご協力ありがとうございました。</p>
+
+</body>
+</html>
