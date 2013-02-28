@@ -1,6 +1,5 @@
 dir:
   fixtures: "fixtures"
-  m2: "/app/tmp/repo.git/.cache/.m2/repository"
 pdf:
   mime_type: "application/pdf"
   postfix: "pdf"

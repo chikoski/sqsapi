@@ -12,12 +12,13 @@ class SQS::API::Translator
     begin
       sqs = ""
       open(params){|fd|
-        sqs = fd.read
+        sqs = fd.path
       }
       pdf = exporter.export_pdf(sqs)
       return {filename: filename, file: pdf, code: 200, type: SQS::API.config.pdf[:mime_type]}
     rescue => e
       SQS::API.logger.debug(e.to_s)
+      SQS::API.logger.debug(e.backtrace.join("\n"))
       return translate_error(:no_sqs_file) 
     end
   end
