@@ -2,8 +2,7 @@ require 'sqs'
 require 'find'
 
 class SQS::API
-  include Find
-  
+
   @@logger = nil
   
   class << self
@@ -52,8 +51,9 @@ class SQS::API
       require 'java'
 
       repository = config.m2
-      repository = ENV["HOME/.m2"] unless File.directory?(repository)
-      find(repository){|file|
+      repository = File.expand_path(".m2", ENV["HOME"]) unless File.directory?(repository)
+      Find.find(repository){|file|
+        debug(file)
         require file if file =~ /\.jar$/
       }
     end

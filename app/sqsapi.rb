@@ -8,9 +8,9 @@ require 'json'
 require 'sinatra'
 
 require 'sqs/api'
-require 'sqs/api/translator'
-
 SQS::API.setup(File.expand_path("../config/config.yml", File.dirname(__FILE__)))
+
+require 'sqs/api/translator'
 
 get '/' do
   redirect '/translate.html'

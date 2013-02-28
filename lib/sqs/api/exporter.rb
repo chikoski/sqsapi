@@ -1,6 +1,3 @@
-require 'java'
-require 'sqs-translator-1.1.2.jar'
-
 class SQS::API::Exporter
   include Java
 
