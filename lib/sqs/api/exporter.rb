@@ -24,20 +24,24 @@ class SQS::API::Exporter
     pdf = org.jruby.util.JRubyFile.createTempFile("sqs", "pdf")
     pdf_fd = java.io.BufferedOutputStream.new(java.io.FileOutputStream.new(pdf))
 
-    translator.execute(sqs_fd, sqs.toURI(),  pdf_fd, uriResolver)
+    translator_for(pdf.getName()) do |t|
+      t.execute(sqs_fd, sqs.toURI(),  pdf_fd, @uri_resolver)
+    end
 
     return pdf
   end
   
-  def translator
-    return @sqs_pdf_translator if @sqs_pdf_translator
-    @sqs_pdf_translarator =
-      net.sqs2.translator.impl.SQSToPDFTranslator(GROUP_ID,
-                                                  APP_ID,
-                                                  "ja",
-                                                  @uri_resolver,
-                                                  @page_setting)
-    return @sqs_pdf_translarator
+  def translator_for(filename, lang="ja")
+    ret = SQSToPDFTranslator.new(GROUP_ID,
+                                 APP_ID,
+                                 TranslatorJarURIContext.getFOPBaseURI(), 
+                                 TranslatorJarURIContext.getXSLTBaseURI(), 
+                                 lang,
+                                 filename,
+                                 @uri_resolver,
+                                 @page_setting)
+    yield(ret) if block_given?
+    return ret
   end
 
   

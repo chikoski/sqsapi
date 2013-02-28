@@ -11,11 +11,11 @@ class SQS::API::Translator
   def start(params)
     begin
       sqs = ""
-      open(params){|fd|
+      open_sqs(params){|fd|
         sqs = fd.path
+        pdf = exporter.export_pdf(sqs)
+        return {filename: filename, file: pdf, code: 200, type: SQS::API.config.pdf[:mime_type]}
       }
-      pdf = exporter.export_pdf(sqs)
-      return {filename: filename, file: pdf, code: 200, type: SQS::API.config.pdf[:mime_type]}
     rescue => e
       SQS::API.logger.debug(e.to_s)
       SQS::API.logger.debug(e.backtrace.join("\n"))
@@ -40,17 +40,45 @@ class SQS::API::Translator
     return "#{Time.now.to_i}.pdf"
   end
 
-  def open(params)
+  def open_sqs(params)
     handle = file_handle(params)
     yield(handle) if block_given?
     handle.close(handle)
   end
 
+  def filename_of(params)
+    return params[:file][:filename] if params[:file] && params[:file][:tempfile]
+    return params["file"][:filename].path if params["file"] && params["file"][:tempfile]
+    return File.basename(URI.parse(params[:url]).path) if is_valid_url?(params)
+    return nil
+  end
+
+
   def file_handle(params)
     return params[:file][:tempfile] if params[:file] && params[:file][:tempfile]
     return params["file"][:tempfile] if params["file"] && params["file"][:tempfile] 
-    return open(params[:url]) if is_valid_url?(params)
+    return fetch_from(params[:url]) if is_valid_url?(params)
     return nil
+  end
+
+  def fetch_from(url)
+    # XXX to be implemented
+  end
+
+  def save_as(src, filename)
+    filename = File.expand_path(new_name_of(filename), ENV["HOME"])
+    open(filename){|fd|
+      fd.puts fd.read
+    }
+    return filename
+  end
+
+  def new_name_of(filename)
+    name = File.basename(filename)
+    postfix = File.extname(filename)
+
+    without_postfix = name.gsub(/#{postfix}$/, "")
+    return "#{without_postfix}-#{Time.now.to_i}#{postfix}"
   end
 
   def is_valid_url?(params)
