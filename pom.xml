@@ -70,16 +70,7 @@
 	      <args>-S gem install bundler --no-ri --no-rdoc --install-dir vendor/bundle</args>
 	    </configuration>
 	  </execution>
-	  <execution>
-	    <id>install-jruby-openssl</id>
-	    <phase>process-resources</phase>
-	    <goals>
-	      <goal>jruby</goal>
-	    </goals>
-	    <configuration>
-	      <args>-S gem install jruby-openssl --no-ri --no-rdoc --install-dir vendor/bundle</args>
-	    </configuration>
-	  </execution>
+
 	  <execution>
 	    <id>bundle-install</id>
 	    <phase>process-resources</phase>
