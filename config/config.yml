@@ -4,4 +4,4 @@ dir:
 pdf:
   mime_type: "application/pdf"
   postfix: "pdf"
-
+loglevel: "debug"
