@@ -26,3 +26,5 @@ Gemfile.lock
 
 vendor/*
 target/*
+
+public/*.pdf
