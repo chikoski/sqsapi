@@ -11,7 +11,7 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <jruby.version>1.7.3</jruby.version>
+    <jruby.version>1.7.1</jruby.version>
   </properties>
 
   <repositories>
