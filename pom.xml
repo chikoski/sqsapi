@@ -61,13 +61,24 @@
 	<version>${jruby.version}</version>
 	<executions>
 	  <execution>
+	    <id>install-bundler</id>
+	    <phase>process-resources</phase>
+	    <goals>
+	      <goal>jruby</goal>
+	    </goals>
+	    <configuration>
+	      <args>-S gem install bundler --no-ri --no-rdoc --install-dir vendor/bundle</args>
+	    </configuration>
+	  </execution>
+	  
+	  <execution>
 	    <id>bundle-install</id>
 	    <phase>process-resources</phase>
 	    <goals>
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>bundle install --without development:test</args>
+	      <args>script/bundle install --without development:test</args>
 	    </configuration>
 	  </execution>
 	</executions>
