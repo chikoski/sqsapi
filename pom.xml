@@ -67,7 +67,7 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>-S gem install bundler --no-ri --no-rdoc --install-dir vendor/bundle</args>
+	      <args>-S gem install bundler --no-ri --no-rdoc</args>
 	    </configuration>
 	  </execution>
 	  
@@ -78,7 +78,7 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>-I vendor/bunlde vendor/bundle/bin/bundle install --without development:test</args>
+	      <args>-S bundle install --without development:test</args>
 	    </configuration>
 	  </execution>
 	</executions>
