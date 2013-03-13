@@ -1,8 +1,4 @@
 source 'http://rubygems.org'
 
 gem 'sinatra'
-gem 'trinidad'
-gem 'activerecord'
-gem 'activerecord-jdbcsqlite3-adapter'
 gem 'json'
-gem 'jruby-openssl'
