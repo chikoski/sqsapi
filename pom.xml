@@ -78,7 +78,7 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>-S bundle install --without development:test</args>
+	      <args>-I vendor/bunlde/gems vendor/bundle/bin/bundle install --without development:test</args>
 	    </configuration>
 	  </execution>
 	</executions>
