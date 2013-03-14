@@ -67,7 +67,7 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>-S gem install bundler --no-ri --no-rdoc</args>
+	      <args>-S gem install bundler --no-ri --no-rdoc --install-dir vendor/bundle</args>
 	    </configuration>
 	  </execution>
 	  
@@ -78,7 +78,15 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>-S bundle install --without development:test</args>
+	      <args>
+		-e ENV['GEM_HOME'] = File.join(Dir.pwd,'vendor/bundle')\
+		ENV['GEM_PATH'] = File.join(Dir.pwd,'vendor/bundle')\
+		ENV['BUNDLE_GEMFILE'] = File.join(Dir.pwd,'Jemfile')\
+		require 'rubygems'\
+		require 'bundler'\
+		require 'bundler/cli'\
+		Bundler::CLI.start\
+	      </args>
 	    </configuration>
 	  </execution>
 	</executions>
