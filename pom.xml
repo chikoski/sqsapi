@@ -78,15 +78,7 @@
 	      <goal>jruby</goal>
 	    </goals>
 	    <configuration>
-	      <args>
-		-e ENV['GEM_HOME'] = File.join(Dir.pwd,'vendor/bundle')\
-		ENV['GEM_PATH'] = File.join(Dir.pwd,'vendor/bundle')\
-		ENV['BUNDLE_GEMFILE'] = File.join(Dir.pwd,'Jemfile')\
-		require 'rubygems'\
-		require 'bundler'\
-		require 'bundler/cli'\
-		Bundler::CLI.start\
-	      </args>
+	      <args>script/bundle install --without development:test</args>
 	    </configuration>
 	  </execution>
 	</executions>
