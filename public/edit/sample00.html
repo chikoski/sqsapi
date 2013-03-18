@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <title>Edit sample00.sqs</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/css/sqseditor.css">
+  </head>
+  <body>
+    <div id="container"></div>
+    <script type="text/x-sqs" src="/sqs/sample00.sqs"></script>
+    <script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.tmpl.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/sqseditor.js"></script>
+    <script type="text/javascript" src="/js/boot.js"></script>
+
+    <script type="text/x-jquery-template" id="sheet">
+      <div class="sheet">
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="h">
+      <header>
+	<textarea class="header">${text}</textarea>
+      </header>
+    </script>
+    <script type="text/x-jquery-template" id="p">
+      <div class="control-wrapper">
+	<textarea class="p">${text}</textarea>
+	<ul class="control control-p">
+	  <li class="btn btn-remove">-</li>
+	  <li class="btn btn-insert-p">P</li>
+	  <li class="btn btn-insert-select1">Q</li>
+	  <li class="btn btn-insert-matrix">M</li>
+	</ul>
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="select1">
+	<ul class="select1">
+	</ul>
+    </script>
+    <script type="text/x-jquery-template" id="hint">
+      <div class="hint">
+	<textarea class="hint">${text}</textarea>
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="item">
+      <li class="item"></li>
+    </script>
+    <script type="text/x-jquery-template" id="label">
+      <textarea class="label">${text}</textarea>
+    </script>
+    <script type="text/x-jquery-template" id="value">
+    </script>
+    <script type="text/x-jquery-template" id="matrix-forms">
+      <div class="matrix-forms">
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="row-array">
+      <div class="row-array">
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="group">
+      <div class="group">
+      </div>
+    </script>
+    <script type="text/x-jquery-template" id="column-array">
+      <div class="column-array">
+      </div>
+    </script>
+  </body>
+</html>

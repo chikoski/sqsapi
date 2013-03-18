@@ -1,0 +1,90 @@
+.sheet{
+    width: 960px;
+    margin: 40px auto;
+    font-size: 20px;
+    font-family: "Meiryo","メイリオ",sans-serif;
+}
+textarea{
+    border-style: none;
+    width: 100%;
+    padding: 2px;
+    font-size: 20px;
+    font-family: "Meiryo","メイリオ",sans-serif;
+}
+textarea:hover{
+    padding: 0;
+    border: dashed 2px #ccc;
+}
+.header{
+    font-size: 144%;
+}
+.p{
+    margin: 1em 0;
+}
+.matrix-forms{
+    font-size: small;
+    overflow: auto;
+}
+.row-array{
+    width: 330px;
+    padding-top: 140px;
+    margin: 0;
+    float: left;
+}
+.column-array{
+    width: 600px;
+    margin-left: 350px;
+    margin-right: 0;
+    overflow: auto;
+}
+.select1{
+    padding-left: 0;
+    display: table;
+}
+.item{
+    display: table-cell;
+}
+
+.select1 textarea{
+}
+.column-array .select1{
+    width: 50%;
+    float: left;
+}
+.column-array .hint{
+/*    width: 100%;*/
+    display: none;
+}
+.column-array .label{
+    font-size: x-small;
+}
+
+/*
+  editor controls
+*/
+
+.control-wrapper{
+    position: relative;
+}
+.control{
+    padding-left: 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: -48px;
+    display: none;
+}
+.control-wrapper:hover .control{
+    display: block;
+}
+.btn{
+    color: #eee;
+    background-color: #999;
+    text-align: center;
+    margin-bottom: 4px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    list-style: none;
+    width: 32px;
+}
+

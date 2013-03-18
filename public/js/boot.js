@@ -1,0 +1,1 @@
+$(function(){window.sqseditor.boot($("#container"));});
