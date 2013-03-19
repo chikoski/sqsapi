@@ -198,7 +198,8 @@
     })();
 
     var Editor = function(baseElement, sqs){
-//	this.baseElement = $("#sheet").tmpl().appendTo(baseElement);
+	this.baseElement = $("#sheet").tmpl().appendTo(baseElement);
+	this.parseSQS(sqs);
 	this.sheet = null;
 	if(sqs != null){
 	    var parser = new Parser();
@@ -320,7 +321,7 @@
 	    success: function(sqs){
 		if(sqs){
 		    running = new Editor(baseElement, sqs);
-//		    running.render();
+		    running.render();
 		    if(typeof options.onload === "function"){
 			options.onload(sqs);
 		    }
